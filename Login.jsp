@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Login
-    Created on : Apr 6, 2018, 5:05:43 PM
-    Author     : Suraj
---%>
+
 
 <%@page import="java.sql.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
